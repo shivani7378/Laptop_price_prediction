@@ -88,6 +88,5 @@ What are the limitations and challenges in predicting laptop prices accurately?
 
 How does the model perform when predicting the prices of newly released laptops not present in the training dataset?
 
-https://github.com/user-attachments/assets/f7888905-10dc-44d4-95e1-eb50fdd6948e
 [GitHub Attachment](https://github.com/user-attachments/assets/f7888905-10dc-44d4-95e1-eb50fdd6948e)
 

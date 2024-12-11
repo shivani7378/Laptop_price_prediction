@@ -20,6 +20,8 @@ Real-time Prediction: The model should have the capability to predict prices for
 
 Interpretability: It is crucial to make the model interpretable, allowing SmartTech Co. to understand the rationale behind pricing predictions.
 
+
+
 ### Project Phases:
 
 Data Exploration and Understanding:
@@ -85,4 +87,7 @@ How well does the model perform on laptops with high-end specifications compared
 What are the limitations and challenges in predicting laptop prices accurately?
 
 How does the model perform when predicting the prices of newly released laptops not present in the training dataset?
+
+https://github.com/user-attachments/assets/f7888905-10dc-44d4-95e1-eb50fdd6948e
+[GitHub Attachment](https://github.com/user-attachments/assets/f7888905-10dc-44d4-95e1-eb50fdd6948e)
 
